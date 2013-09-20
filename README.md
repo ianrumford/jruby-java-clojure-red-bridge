@@ -4,8 +4,8 @@ Calling JRuby from Java and CLojure using Red Bridge
 
 ## Usage
 
-See the [blog post][http://ianrumford.github.io/blog/2013/09/20/calling-jruby-from-java-and-clojure-using-red-bridge/]
+See the [blog post](http://ianrumford.github.io/blog/2013/09/20/calling-jruby-from-java-and-clojure-using-red-bridge/)
 
 ## License
 
-[MIT][http://opensource.org/licenses/MIT]
+[MIT](http://opensource.org/licenses/MIT)
