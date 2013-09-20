@@ -31,7 +31,7 @@
 ;; => Logging on the REPL console
 
 ;; common map function
-s
+
 (keys c2j-m1)
 ;; => 
 '("class" "method")
