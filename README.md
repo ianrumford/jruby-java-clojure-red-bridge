@@ -1,6 +1,6 @@
 # jruby-java-clojure-red-bridge
 
-Calling JRuby from Java and CLojure using Red Bridge
+Calling JRuby from Java and Clojure using Red Bridge
 
 ## Usage
 
