@@ -1,14 +1,11 @@
-# polycall
+# jruby-java-clojure-red-bridge
 
-A Clojure library designed to ... well, that part is up to you.
+Calling JRuby from Java and CLojure using Red Bridge
 
 ## Usage
 
-FIXME
+See the [blog post][http://ianrumford.github.io/blog/2013/09/20/calling-jruby-from-java-and-clojure-using-red-bridge/]
 
 ## License
 
-Copyright © 2013 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+[MIT][http://opensource.org/licenses/MIT]
